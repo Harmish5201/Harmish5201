@@ -15,3 +15,5 @@ I'm working on [Your Focus/Interests, e.g., web development, machine learning, o
 > "Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it."
 >
 > — *Vannevar Bush*
+
+![Snake animation](https://raw.githubusercontent.com/Harmish5201/Harmish5201/output/github-contribution-grid-snake.svg)
