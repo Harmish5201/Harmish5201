@@ -16,4 +16,8 @@ I'm working on [Your Focus/Interests, e.g., web development, machine learning, o
 >
 > — *Vannevar Bush*
 
-![Snake animation](https://raw.githubusercontent.com/Harmish5201/Harmish5201/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Harmish5201/Harmish5201/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Harmish5201/Harmish5201/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Harmish5201/Harmish5201/output/github-contribution-grid-snake.svg">
+</picture>
