@@ -1,6 +1,12 @@
 <p align="center">
   <img src="https://ghrb.waren.build/banner?header=I%27M+HARMISH+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21+%E2%9C%8C%EF%B8%8F%F0%9F%98%86&bg=0d1117&color=ffffff&headerfont=Permanent+Marker" width="100%" />
 </p>
+
+I am a DevOps Automations Engineer and like to create automation pipelines using the techstack below, to remove the human workload 💻⚙️
+* 💻 **Full-Stack Development** : Crafting web applications, software architectures, and database systems
+* 🧠 **AI & Deep Learning** : Creating, training, and deploying machine learning models
+* 🩷 **My goal** : Automating away every repetitive developer task
+
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
