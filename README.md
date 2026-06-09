@@ -1,7 +1,6 @@
-# About Me:
-
-I'm working on [Your Focus/Interests, e.g., web development, machine learning, or design], mainly interested in [Your Goal/Passion].
-
+<p align="center">
+  <img src="https://ghrb.waren.build/banner?header=I'M+HARMISH+👋&subheader=The+man+who+wastes+his+time+to+save+yours!+✌️😆&bg=0d1117&color=ffffff&headerfont=Permanent+Marker" width="100%" />
+</p>
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
