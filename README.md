@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://ghrb.waren.build/banner?header=I'M+HARMISH+👋&subheader=The+man+who+wastes+his+time+to+save+yours!+✌️😆&bg=0d1117&color=ffffff&headerfont=Permanent+Marker" width="100%" />
+  <img src="https://ghrb.waren.build/banner?header=I%27M+HARMISH+%F0%9F%91%8B&subheader=The+man+who+wastes+his+time+to+save+yours%21+%E2%9C%8C%EF%B8%8F%F0%9F%98%86&bg=0d1117&color=ffffff&headerfont=Permanent+Marker" width="100%" />
 </p>
 ### 🌐 Socials:
 
